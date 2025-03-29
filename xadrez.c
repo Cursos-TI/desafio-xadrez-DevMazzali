@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <unistd.h>
 
 int main () {
     char rainha = 8; // Initialize with a value
